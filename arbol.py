@@ -14,6 +14,7 @@ f = Nodo("F")
 g = Nodo("G")
 b = Nodo("B", d, e)
 c = Nodo("C", f, g)
+arbol = Nodo("A", b, c)
 
 
 # Punto 6
